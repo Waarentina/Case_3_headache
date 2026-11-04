@@ -1,8 +1,6 @@
-# Is the Weather to Blame for My BF's Headaches?
+# Weather and Headache Analysis
 
-**Sounds plausible. But data first.**
-
-My boyfriend gets recurring headaches and wondered whether the weather might play a role. I combined his headache diary with daily weather data to explore the question.
+This exploratory project combines a headache diary from one participant with daily weather data from Open-Meteo. It examines whether weather conditions differed between days with and without a reported headache.
 
 This is a **single-person observational study**, not an A/B test, a medical diagnosis, or a validated prediction model.
 
